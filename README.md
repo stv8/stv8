@@ -1,8 +1,6 @@
 # Yo Yo!
 ## I'm Sean, a full-stack developer and skateboarder based in Austin, Tx
 
-### 🧑‍💻 I'm currently a Staff Software Engineer at [project44](https://www.project44.com/).
-
 ### 🔭 On the side, I’m working on:
 - [skateboardle](https://skateboardle.com)
 - [SkateVideoSite](https://skatevideosite.com)
@@ -14,6 +12,7 @@
 ![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Svelte](https://img.shields.io/badge/svelte-%23FF3E00?style=for-the-badge&logo=svelte&color=white)
 ![AlpineJS](https://img.shields.io/badge/-AlpineJS-black?style=for-the-badge&logo=Alpine.js)
 [![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +28,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=jetbrains)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 #### 📫 Reach me: `mail at seanvillars dot com`
