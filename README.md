@@ -1,5 +1,5 @@
 # Yo I'm Sean!
-## Currently I'm a software engineer at [Setpoint](https://setpoint.io) and skateboarder based in Austin, Tx
+## Currently I'm a software engineer at [Base Power Compnay 🔋](https://www.basepowercompany.com/), father of 2, and skateboarder based in Austin, Tx
 
 ### 🔭 On the side, I’m working on:
 - [SkateVideoSite](https://skatevideosite.com)
